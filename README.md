@@ -3,7 +3,7 @@ This privacy policy applies to the Dual Remain app (hereby referred to as "Appli
 
 Information Collection and Use
 
-This application does not collect or store personal data.
+Any and all information that is collected or stored, is strictly done so through the use of Unity Ads. Please see the privacy policy for Unity Ads here: https://unity.com/legal/privacy-policy
 
 If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
 
